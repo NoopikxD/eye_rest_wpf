@@ -1,0 +1,95 @@
+c:\users\tinkivinki\documents\visual studio 2013\Projects\EyeRest\EyeRest\bin\Debug\EyeRest.exe.config
+c:\users\tinkivinki\documents\visual studio 2013\Projects\EyeRest\EyeRest\obj\Debug\EyeRest.csprojResolveAssemblyReference.cache
+c:\users\tinkivinki\documents\visual studio 2013\Projects\EyeRest\EyeRest\obj\Debug\MainWindow.baml
+c:\users\tinkivinki\documents\visual studio 2013\Projects\EyeRest\EyeRest\obj\Debug\MainWindow.g.cs
+c:\users\tinkivinki\documents\visual studio 2013\Projects\EyeRest\EyeRest\obj\Debug\App.g.cs
+c:\users\tinkivinki\documents\visual studio 2013\Projects\EyeRest\EyeRest\obj\Debug\EyeRest_MarkupCompile.cache
+c:\users\tinkivinki\documents\visual studio 2013\Projects\EyeRest\EyeRest\obj\Debug\EyeRest.g.resources
+c:\users\tinkivinki\documents\visual studio 2013\Projects\EyeRest\EyeRest\obj\Debug\EyeRest.Properties.Resources.resources
+c:\users\tinkivinki\documents\visual studio 2013\Projects\EyeRest\EyeRest\obj\Debug\EyeRest.csproj.GenerateResource.Cache
+c:\users\tinkivinki\documents\visual studio 2013\Projects\EyeRest\EyeRest\bin\Debug\EyeRest.exe
+c:\users\tinkivinki\documents\visual studio 2013\Projects\EyeRest\EyeRest\bin\Debug\EyeRest.pdb
+c:\users\tinkivinki\documents\visual studio 2013\Projects\EyeRest\EyeRest\obj\Debug\EyeRest.exe
+c:\users\tinkivinki\documents\visual studio 2013\Projects\EyeRest\EyeRest\obj\Debug\EyeRest.pdb
+C:\Users\TinkiVinki\documents\visual studio 2013\Projects\EyeRest\EyeRest\bin\Debug\MahApps.Metro.dll
+C:\Users\TinkiVinki\documents\visual studio 2013\Projects\EyeRest\EyeRest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\TinkiVinki\documents\visual studio 2013\Projects\EyeRest\EyeRest\bin\Debug\MahApps.Metro.pdb
+C:\Users\TinkiVinki\documents\visual studio 2013\Projects\EyeRest\EyeRest\bin\Debug\MahApps.Metro.xml
+C:\Users\TinkiVinki\documents\visual studio 2013\Projects\EyeRest\EyeRest\obj\Debug\App.baml
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a\EyeRest\bin\Debug\EyeRest.exe.config
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a\EyeRest\obj\Debug\EyeRest.exe
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a\EyeRest\obj\Debug\EyeRest.pdb
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a\EyeRest\bin\Debug\EyeRest.exe
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a\EyeRest\bin\Debug\EyeRest.pdb
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a\EyeRest\bin\Debug\MahApps.Metro.dll
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a\EyeRest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a\EyeRest\bin\Debug\MahApps.Metro.pdb
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a\EyeRest\bin\Debug\MahApps.Metro.xml
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a\EyeRest\obj\Debug\EyeRest.csprojResolveAssemblyReference.cache
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a\EyeRest\obj\Debug\MainWindow.baml
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a\EyeRest\obj\Debug\App.baml
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a\EyeRest\obj\Debug\MainWindow.g.cs
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a\EyeRest\obj\Debug\App.g.cs
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a\EyeRest\obj\Debug\EyeRest_MarkupCompile.cache
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a\EyeRest\obj\Debug\EyeRest.g.resources
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a\EyeRest\obj\Debug\EyeRest.Properties.Resources.resources
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a\EyeRest\obj\Debug\EyeRest.csproj.GenerateResource.Cache
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a HOT FIX\EyeRest\bin\Debug\EyeRest.exe.config
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a HOT FIX\EyeRest\obj\Debug\EyeRest.exe
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a HOT FIX\EyeRest\obj\Debug\EyeRest.pdb
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a HOT FIX\EyeRest\obj\Debug\EyeRest.csprojResolveAssemblyReference.cache
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a HOT FIX\EyeRest\obj\Debug\MainWindow.baml
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a HOT FIX\EyeRest\obj\Debug\App.baml
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a HOT FIX\EyeRest\obj\Debug\MainWindow.g.cs
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a HOT FIX\EyeRest\obj\Debug\App.g.cs
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a HOT FIX\EyeRest\obj\Debug\EyeRest_MarkupCompile.cache
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a HOT FIX\EyeRest\obj\Debug\EyeRest.g.resources
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a HOT FIX\EyeRest\obj\Debug\EyeRest.csproj.GenerateResource.Cache
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a HOT FIX\EyeRest\bin\Debug\EyeRest.exe
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a HOT FIX\EyeRest\bin\Debug\EyeRest.pdb
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a HOT FIX\EyeRest\bin\Debug\MahApps.Metro.dll
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a HOT FIX\EyeRest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a HOT FIX\EyeRest\bin\Debug\MahApps.Metro.pdb
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a HOT FIX\EyeRest\bin\Debug\MahApps.Metro.xml
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a HOT FIX\EyeRest\obj\Debug\EyeRest.Properties.Resources.resources
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a HOT FIX\EyeRest\obj\Debug\trey_menu.baml
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.45a HOT FIX\EyeRest\obj\Debug\trey_menu.g.cs
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.55\EyeRest\bin\Debug\EyeRest.exe.config
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.55\EyeRest\obj\Debug\EyeRest.exe
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.55\EyeRest\obj\Debug\EyeRest.pdb
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.55\EyeRest\bin\Debug\EyeRest.exe
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.55\EyeRest\bin\Debug\EyeRest.pdb
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.55\EyeRest\bin\Debug\MahApps.Metro.dll
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.55\EyeRest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.55\EyeRest\bin\Debug\MahApps.Metro.pdb
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.55\EyeRest\bin\Debug\MahApps.Metro.xml
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.55\EyeRest\obj\Debug\EyeRest.csprojResolveAssemblyReference.cache
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.55\EyeRest\obj\Debug\MainWindow.baml
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.55\EyeRest\obj\Debug\App.baml
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.55\EyeRest\obj\Debug\MainWindow.g.cs
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.55\EyeRest\obj\Debug\App.g.cs
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.55\EyeRest\obj\Debug\EyeRest_MarkupCompile.cache
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.55\EyeRest\obj\Debug\EyeRest.g.resources
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.55\EyeRest\obj\Debug\EyeRest.Properties.Resources.resources
+C:\Users\TinkiVinki\Documents\Visual Studio 2013\Projects\EyeRest\EyeRest 0.55\EyeRest\obj\Debug\EyeRest.csproj.GenerateResource.Cache
+C:\Users\Администратор.TinkiPc\Documents\Visual Studio 2015\Projects\EyeRest\EyeRest 0.55\EyeRest\bin\Debug\EyeRest.exe.config
+C:\Users\Администратор.TinkiPc\Documents\Visual Studio 2015\Projects\EyeRest\EyeRest 0.55\EyeRest\obj\Debug\EyeRest.exe
+C:\Users\Администратор.TinkiPc\Documents\Visual Studio 2015\Projects\EyeRest\EyeRest 0.55\EyeRest\obj\Debug\EyeRest.pdb
+D:\qwe.txt\EyeRest_0_55\EyeRest 0.55\EyeRest\bin\Debug\EyeRest.exe.config
+D:\qwe.txt\EyeRest_0_55\EyeRest 0.55\EyeRest\bin\Debug\EyeRest.exe
+D:\qwe.txt\EyeRest_0_55\EyeRest 0.55\EyeRest\bin\Debug\EyeRest.pdb
+D:\qwe.txt\EyeRest_0_55\EyeRest 0.55\EyeRest\bin\Debug\MahApps.Metro.dll
+D:\qwe.txt\EyeRest_0_55\EyeRest 0.55\EyeRest\bin\Debug\System.Windows.Interactivity.dll
+D:\qwe.txt\EyeRest_0_55\EyeRest 0.55\EyeRest\bin\Debug\MahApps.Metro.pdb
+D:\qwe.txt\EyeRest_0_55\EyeRest 0.55\EyeRest\bin\Debug\MahApps.Metro.xml
+D:\qwe.txt\EyeRest_0_55\EyeRest 0.55\EyeRest\obj\Debug\EyeRest.csprojResolveAssemblyReference.cache
+D:\qwe.txt\EyeRest_0_55\EyeRest 0.55\EyeRest\obj\Debug\MainWindow.baml
+D:\qwe.txt\EyeRest_0_55\EyeRest 0.55\EyeRest\obj\Debug\App.baml
+D:\qwe.txt\EyeRest_0_55\EyeRest 0.55\EyeRest\obj\Debug\MainWindow.g.cs
+D:\qwe.txt\EyeRest_0_55\EyeRest 0.55\EyeRest\obj\Debug\App.g.cs
+D:\qwe.txt\EyeRest_0_55\EyeRest 0.55\EyeRest\obj\Debug\EyeRest_MarkupCompile.cache
+D:\qwe.txt\EyeRest_0_55\EyeRest 0.55\EyeRest\obj\Debug\EyeRest.g.resources
+D:\qwe.txt\EyeRest_0_55\EyeRest 0.55\EyeRest\obj\Debug\EyeRest.Properties.Resources.resources
+D:\qwe.txt\EyeRest_0_55\EyeRest 0.55\EyeRest\obj\Debug\EyeRest.csproj.GenerateResource.Cache
+D:\qwe.txt\EyeRest_0_55\EyeRest 0.55\EyeRest\obj\Debug\EyeRest.exe
+D:\qwe.txt\EyeRest_0_55\EyeRest 0.55\EyeRest\obj\Debug\EyeRest.pdb
